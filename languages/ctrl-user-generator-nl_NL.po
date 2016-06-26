@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: CTRL User Generator\n"
+"POT-Creation-Date: 2016-05-27 14:54+0200\n"
+"PO-Revision-Date: 2016-05-27 14:56+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ctrl-user-generator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-ctrl-user-generator-generator.php:196
+msgid "the following users have been added:"
+msgstr "de volgende gebruikers zijn toegevoegd:"
+
+#: includes/class-ctrl-user-generator-generator.php:201
+msgid "Your user registrations"
+msgstr "Jouw gebruiker-registraties"
+
+#: templates/user-generator-page.php:2
+msgid "Create random users for testing purposes"
+msgstr "Willekeurige gebruikers maken voor testdoeleinden"
+
+#: templates/user-generator-page.php:12
+msgid "How many users"
+msgstr "Hoeveel gebruikers"
+
+#: templates/user-generator-page.php:31
+msgid "Select the role of the newly created users"
+msgstr "Selecteer de rol van de gemaakte gebruikers"
+
+#: templates/user-generator-page.php:46
+msgid "Select the user category"
+msgstr "Selecteer de gebruikerscategorie"
+
+#: templates/user-generator-page.php:59
+msgid "Start generating users!"
+msgstr "Begin met het aanmaken van gebruikers!"
+
+#. Plugin Name of the plugin/theme
+msgid "CTRL User Generator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "willemdumee.nl"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily generate a bunch of new - fake - users to test your plugin / theme of "
+"website"
+msgstr ""
+"Genereer eenvoudig nieuwe (nep) gebruikers voor het testen van je plugin / "
+"thema of website"
+
+#. Author of the plugin/theme
+msgid "Willem Dumee"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://willemdumee.nl"
+msgstr ""

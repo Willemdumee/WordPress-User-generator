@@ -1,0 +1,104 @@
+{
+  "users": {
+    "1": {
+      "email": "homer@simpson.com",
+      "name": "Homer Simpson",
+      "username": "homer"
+    },
+    "2": {
+      "email": "barts@msn.com",
+      "name": "Bart Simpson",
+      "username": "barts"
+    },
+    "3": {
+      "email": "montgomery@burns.com",
+      "name": "Montgomery Burns",
+      "username": "mburns"
+    },
+    "4": {
+      "email": "nedflanders@yahoo.com",
+      "name": "Ned Flanders",
+      "username": "nedflanders"
+    },
+    "5": {
+      "email": "lisasss@gmail.com",
+      "name": "Lisa Simpson",
+      "username": "lisasimpson"
+    },
+    "6": {
+      "email": "marge-simpson@gmail.com",
+      "name": "Marge Simpson",
+      "username": "margesimpson"
+    },
+    "7": {
+      "email": "s.skinner@hotmail.com",
+      "name": "Syemour Skinner",
+      "username": "skinner"
+    },
+    "8": {
+      "email": "krusty@hotmail.com",
+      "name": "Krusty",
+      "username": "krusty"
+    },
+    "9": {
+      "email": "moe.szyslak@yahoo.com",
+      "name": "Moe Szyslak",
+      "username": "moeszyslak"
+    },
+    "10": {
+      "email": "apunahasapeemapetilon@gmail.com",
+      "name": "Apu Nahasapeemapetilon",
+      "username": "apu"
+    },
+    "11": {
+      "email": "ralphwiggum@gmail.com",
+      "name": "Ralph Wiggum",
+      "username": "ralphhug"
+    },
+    "12": {
+      "email": "mvanhouten@gmail.com",
+      "name": "Milhouse van Houten",
+      "username": "milhouse"
+    },
+    "13": {
+      "email": "a-simpson@gmail.com",
+      "name": "Abraham Simpson",
+      "username": "Abraham"
+    },
+    "14": {
+      "email": "c.wiggum@gmail.com",
+      "name": "Clancy Wiggum",
+      "username": "clancy"
+    },
+    "15": {
+      "email": "bouvier@outlook.com",
+      "name": "Patty Bouvier",
+      "username": "bouvier"
+    },
+    "16": {
+      "email": "asimpson@yahoo.co.uk",
+      "name": "Abraham Simpson",
+      "username": "Abraham"
+    },
+    "17": {
+      "email": "joeq@gmail.com",
+      "name": "Joe Quimby",
+      "username": "JoeQ"
+    },
+    "18": {
+      "email": "edna89@hotmail.com",
+      "name": "Edna Krabappel",
+      "username": "krabappel"
+    },
+    "19": {
+      "email": "barney.gumble@gmail.com",
+      "name": "Barney Gumble",
+      "username": "gumble"
+    },
+    "20": {
+      "email": "nelsonm@msn.com",
+      "name": "Nelson Muntz",
+      "username": "nelsonm"
+    }
+  }
+}
